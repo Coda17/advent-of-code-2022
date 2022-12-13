@@ -1,0 +1,16 @@
+{
+  "profiles": {
+    "sample": {
+      "commandName": "Project",
+      "commandLineArgs": "sample.in"
+    },
+    "sample2": {
+      "commandName": "Project",
+      "commandLineArgs": "sample2.in"
+    },
+    "data": {
+      "commandName": "Project",
+      "commandLineArgs": "data.in"
+    }
+  }
+}
